@@ -1,0 +1,11 @@
+
+30/05/2020 22:04:58;PeturM;ADMIN;Successful Login
+30/05/2020 22:05:41;PeturM;ADMIN;Successful Login
+30/05/2020 22:06:10;PeturM;ADMIN;Successful Login
+31/05/2020 21:10:08;PeturM;ADMIN;Successful Login
+31/05/2020 21:10:14;PeturM;ADMIN;Change role of PeturM!
+31/05/2020 21:34:16;PeturM;ADMIN;Successful Login
+31.5.2020 г. 23:07:11;PeturM;ADMIN;Successful Login
+31.5.2020 г. 23:07:40;PeturM;ADMIN;Change role of PeturM!
+31.5.2020 г. 23:07:47;PeturM;ADMIN;Change activity of PeturM!
+1.6.2020 г. 11:37:25;PeturM;ADMIN;Successful Login

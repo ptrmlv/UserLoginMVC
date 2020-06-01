@@ -1,0 +1,98 @@
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.cache
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.lref
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.deps.json
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.g.resources
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfo.cs
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.exe
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.json
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.genruntimeconfig.cache
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll.config
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.baml
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.cache
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.lref
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.exe
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll.config
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.deps.json
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.json
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.dev.json
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.baml
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.baml
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.g.resources
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfoInputs.cache
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfo.cs
+C:\Users\Peter\Desktop\PS_38_PeturG - Copy\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.genruntimeconfig.cache
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.exe
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll.config
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.deps.json
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.json
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.dev.json
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csprojAssemblyReference.cache
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.g.cs
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\App.g.cs
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.cache
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.lref
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.baml
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.baml
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.g.resources
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csproj.CoreCompileInputs.cache
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfoInputs.cache
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfo.cs
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.dll
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.pdb
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.genruntimeconfig.cache
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.Properties.Resources.resources
+C:\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csproj.GenerateResource.cache
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.exe
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll.config
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.deps.json
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.json
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.runtimeconfig.dev.json
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.dll
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\bin\Debug\netcoreapp3.1\UserLoginMVC.pdb
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csprojAssemblyReference.cache
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.g.cs
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.g.cs
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.cache
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC_MarkupCompile.lref
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\View\UserLoginView.baml
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\Window1.baml
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.g.resources
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.Properties.Resources.resources
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.csproj.GenerateResource.cache
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfoInputs.cache
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.AssemblyInfo.cs
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.dll
+D:\Users\Mihaylov\Desktop\PS Kursova\UserLoginMVC\UserLoginMVC\obj\Debug\netcoreapp3.1\UserLoginMVC.pdb

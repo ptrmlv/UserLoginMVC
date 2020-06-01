@@ -1,0 +1,187 @@
+﻿<Window x:Class="UserLoginMVC.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserLoginMVC.View"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="437" Width="906">
+    <Grid Margin="0,0,10,0">
+
+        <TextBox 
+            x:Name="userName" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="user name"
+            VerticalAlignment="Top" Width="165" 
+            Margin="62,42,0,0"
+            FontSize="20"/>
+
+
+
+        <TextBox 
+            x:Name="numberRole" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text=""
+            VerticalAlignment="Top" Width="84" 
+            Margin="486,173,0,0"
+            FontSize="20"/>
+        <TextBox 
+            x:Name="date" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text=""
+            VerticalAlignment="Top" Width="102" 
+            Margin="654,166,0,0"
+            FontSize="20" TextChanged="date_TextChanged"/>
+        <Button 
+            x:Name="changeUserRole" 
+            Content="change" 
+            HorizontalAlignment="Left" 
+            Margin="457,106,0,0" 
+            VerticalAlignment="Top" 
+            Width="129" 
+            Height="34"
+            Click="changeUserRole_Click"/>
+        <Button 
+            x:Name="okRole" 
+            Content="change" 
+            HorizontalAlignment="Left" 
+            Margin="458,106,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="okUserRole_Click"/>
+        <Button 
+            x:Name="atChange" 
+            Content="change" 
+            HorizontalAlignment="Left" 
+            Margin="641,106,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="atChange_Click"/>
+        <Button 
+            x:Name="okDate" 
+            Content="change" 
+            HorizontalAlignment="Left" 
+            Margin="641,106,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="okDate_Click"/>
+        <TextBox 
+            x:Name="userFak" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="user number"
+            VerticalAlignment="Top" Width="165" 
+            Margin="254,39,0,0"
+            FontSize="20"/>
+        <TextBox 
+            x:Name="userRole" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="user role"
+            VerticalAlignment="Top" Width="165" 
+            Margin="439,39,0,0"
+            FontSize="20"/>
+        <TextBox 
+            x:Name="howTo1" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="Type the number in the box then click chamge"
+            VerticalAlignment="Top" Width="398" 
+            Margin="354,271,0,0"
+            FontSize="13"/>
+        <TextBox 
+            x:Name="howToDate" 
+            HorizontalAlignment="Left" 
+            Height="32"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="Type the date in yyyyMMdd and click change"
+            VerticalAlignment="Top" Width="311" 
+            Margin="562,225,0,0"
+            FontSize="13"/>
+        <TextBox 
+            x:Name="howTo" 
+            HorizontalAlignment="Left" 
+            Height="41"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="0-ANONYMOUS 
+        1-ADMIN
+        2-INSPECTOR
+        3-PROFESSOR
+        4-STUDENT"
+            VerticalAlignment="Top" Width="324" 
+            Margin="391,225,0,0"
+            FontSize="13"/>
+        <TextBox 
+            x:Name="activeTime" 
+            HorizontalAlignment="Left" 
+            Height="38"
+            TextWrapping="Wrap" 
+            TextAlignment ="Center" 
+            Text="active time"
+            VerticalAlignment="Top" Width="165" 
+            Margin="623,39,0,0"
+            FontSize="20"/>
+        <Button 
+            x:Name="showListNamesButton"   
+            Content="all names" 
+            HorizontalAlignment="Left" 
+            Margin="80,329,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="namesShowButtonMVC_Click"/>
+        <Button 
+            x:Name="displayLog"  
+            Content="all log" 
+            HorizontalAlignment="Left" 
+            Margin="413,329,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="displayLog_Click"/>
+        <Button 
+            x:Name="loginCount" 
+            Content="times login" 
+            HorizontalAlignment="Left" 
+            Margin="254,329,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="loginCount_Click"/>
+
+        <Button 
+            x:Name="currentAct"   
+            Content="current activities" 
+            HorizontalAlignment="Left" 
+            Margin="587,329,0,0" 
+            VerticalAlignment="Top" 
+            Width="128" 
+            Height="34"
+            Click="currentAct_Click"/>
+        <Image
+               Stretch="Fill"
+               Source="/View/tuto.jpg"
+               Margin="91,106,578,116" />
+
+    </Grid>
+</Window>
